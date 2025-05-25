@@ -1,0 +1,3 @@
+# Dependencies for Weather Station Report
+pandas
+requests
